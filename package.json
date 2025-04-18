@@ -1,0 +1,25 @@
+{
+  "name": "example_repo",
+  "version": "1.0.0",
+  "description": "Este repo contiene un workflow que se autentica mediante workload identity federation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0bCdian/workload_identity_federation_example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/0bCdian/workload_identity_federation_example/issues"
+  },
+  "homepage": "https://github.com/0bCdian/workload_identity_federation_example#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
