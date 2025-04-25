@@ -3,4 +3,4 @@
 Este repo contiene un workflow que se autentica mediante workload identity
 federation.
 
-RAMA main
+RAMA main ejemplo
